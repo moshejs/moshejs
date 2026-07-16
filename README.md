@@ -6,7 +6,7 @@ New York City · writing software since 2008 · leading teams, mentoring enginee
 
 ## Open source
 
-Twenty zero-dependency TypeScript libraries for markets math, market data, and Hebrew NLP — each verified against primary sources (QuantLib, TreasuryDirect, the NY Fed's published numbers).
+Twenty-six zero-dependency TypeScript libraries for markets math, market data, and Hebrew NLP — each verified against primary sources (QuantLib, TreasuryDirect, the NY Fed's published numbers).
 
 **Rates & Treasury** —
 [`32nds`](https://www.npmjs.com/package/32nds) ·
@@ -30,6 +30,16 @@ Twenty zero-dependency TypeScript libraries for markets math, market data, and H
 [`instrument-identifiers`](https://www.npmjs.com/package/instrument-identifiers) ·
 [`us-equity-market-calendar`](https://www.npmjs.com/package/us-equity-market-calendar) ·
 [`commitments-of-traders`](https://www.npmjs.com/package/commitments-of-traders)
+
+**Startup Equity** —
+[`safe-stack-conversion`](https://www.npmjs.com/package/safe-stack-conversion) ·
+[`exit-waterfall`](https://www.npmjs.com/package/exit-waterfall) ·
+[`priced-round-math`](https://www.npmjs.com/package/priced-round-math) ·
+[`vesting-schedule-math`](https://www.npmjs.com/package/vesting-schedule-math)
+
+**Crypto & Consumer Credit** —
+[`perp-funding-math`](https://www.npmjs.com/package/perp-funding-math) ·
+[`reg-z-apr`](https://www.npmjs.com/package/reg-z-apr)
 
 **Off Desk** —
 [`rmd-uniform-lifetime`](https://www.npmjs.com/package/rmd-uniform-lifetime) ·
